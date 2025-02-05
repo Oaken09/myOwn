@@ -1,3 +1,4 @@
+# не работает
 import pandas as pd
 
 df_Score = pd.read_excel('Score.xlsx')
